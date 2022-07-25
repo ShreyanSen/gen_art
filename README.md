@@ -2,4 +2,3 @@
 
 Let's make some cool generative art!
 
-## Test
